@@ -30,11 +30,20 @@
 	<array>
 		<string>armv7</string>
 	</array>
+	<key>LSApplicationCategoryType</key>
+	<string></string>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string></string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>OpenSans-Regular-webfont.ttf</string>
+		<string>OpenSans-Semibold-webfont.ttf</string>
 	</array>
 </dict>
 </plist>
